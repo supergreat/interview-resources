@@ -1,0 +1,127 @@
+{
+    "id": "prod_JZmsvax7M8AaAbTbqsDhTM",
+    "title": "Product Scramble Nail Polish",
+    "description": "Better than scrambled eggs!",
+    "variations": [
+        {
+            "id": "var_YGnyXW67yeiT2xfKuXeaPc",
+            "options": [
+                {
+                    "name": "Color",
+                    "value": "Blue"
+                },
+                {
+                    "name": "Size",
+                    "value": "Small"
+                }
+            ],
+            "offers": [
+                {
+                    "id": "offer_5hKoZL9aA5RxgPXvdpgoDg",
+                    "currency": "USD",
+                    "price": 500,
+                    "in_stock": true
+                },
+                {
+                    "id": "offer_5hKoZL9aA5RxgDkfhjkleD",
+                    "currency": "SGC",
+                    "price": 200,
+                    "in_stock": true
+                }
+            ]
+        },
+        {
+            "id": "var_YGnyXW67yeiT2deoStpyA",
+            "options": [
+                {
+                    "name": "Color",
+                    "value": "Red"
+                },
+                {
+                    "name": "Size",
+                    "value": "Small"
+                }
+            ],
+            "offers": [
+                {
+                    "id": "offer_5hKoZL9aA5RxgasdfafafdD4",
+                    "currency": "USD",
+                    "price": 1000,
+                    "in_stock": true
+                },
+                {
+                    "id": "offer_5hKoZL9aA5RxgasdfacxzfgfdD4",
+                    "currency": "USD",
+                    "price": 1200,
+                    "in_stock": true
+                },
+                {
+                    "id": "offer_5hKoZL9aA5Rx3dsafkl346",
+                    "currency": "SGC",
+                    "price": 210,
+                    "in_stock": false
+                }
+            ]
+        },
+        {
+            "id": "var_YGnyXW67443osddSr35",
+            "options": [
+                {
+                    "name": "Color",
+                    "value": "Blue"
+                },
+                {
+                    "name": "Size",
+                    "value": "Medium"
+                }
+            ],
+            "offers": [
+                {
+                    "id": "offer_5hKoZL9aA5RxgasdfafafdD4",
+                    "currency": "USD",
+                    "price": 1000,
+                    "in_stock": false
+                },
+                {
+                    "id": "offer_5hKoZL9aA5RxgasdfacxzfgfdD4",
+                    "currency": "USD",
+                    "price": 1200,
+                    "in_stock": true
+                },
+                {
+                    "id": "offer_5hKoZL9aA5Rx3dsafkl346",
+                    "currency": "USD",
+                    "price": 1500,
+                    "in_stock": true
+                }
+            ]
+        },
+        {
+            "id": "var_adfsa3dsv3osddSr35",
+            "options": [
+                {
+                    "name": "Color",
+                    "value": "Red"
+                },
+                {
+                    "name": "Size",
+                    "value": "Medium"
+                }
+            ],
+            "offers": [
+                {
+                    "id": "offer_5hKoZLds4",
+                    "currency": "USD",
+                    "price": 1000,
+                    "in_stock": false
+                },
+                {
+                    "id": "offer_5fsasoZD4",
+                    "currency": "SGC",
+                    "price": 200,
+                    "in_stock": false
+                }
+            ]
+        }
+    ]
+}
