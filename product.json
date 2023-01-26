@@ -77,19 +77,19 @@
             ],
             "offers": [
                 {
-                    "id": "offer_5hKoZL9aA5RxgasdfafafdD4",
+                    "id": "offer_5hKoZL9aA5RxgasdfafafdabcD4",
                     "currency": "USD",
                     "price": 1000,
                     "in_stock": false
                 },
                 {
-                    "id": "offer_5hKoZL9aA5RxgasdfacxzfgfdD4",
+                    "id": "offer_5hKoZL9aA5RxgasdfacxzfgfddefD4",
                     "currency": "USD",
                     "price": 1200,
                     "in_stock": true
                 },
                 {
-                    "id": "offer_5hKoZL9aA5Rx3dsafkl346",
+                    "id": "offer_5hKoZL9aA5Rx3dsafklghi346",
                     "currency": "USD",
                     "price": 1500,
                     "in_stock": true
